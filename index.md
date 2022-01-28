@@ -1,6 +1,6 @@
 ## Welcome to aprioricity 
 
-<!
+<!--
 # Header 1
 ## Header 2
 ### Header 3
@@ -12,8 +12,9 @@
 2. List
 
 **Bold** and _Italic_ and `Code` text
+and ![Image](src)
 -->
 
-[Link](https://oculus.substack.com/publish) and ![Image](src)
+[Link](https://oculus.substack.com/publish) 
 ```
 
